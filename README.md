@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Ruby on Rails 5 超入門(ISBN: 978-4-7980-4832-1)](http://www.shuwasystem.co.jp/products/7980html/4832.html) の写経用リポジトリです。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+本リポジトリにあるのは、Chapter 4 で作成する超ミニブログです。
